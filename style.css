@@ -8,7 +8,7 @@
 
 }
 
-h2 {
+.PriceListTable {
     text-align: center;
     margin: 50px 0 20px 0;
 }
@@ -54,10 +54,6 @@ table td:last-child{
 
 }
 
-h4 {
-  text-align: center;
-  margin-top: 20px;
-}
 
 .information {
   list-style: none;
@@ -92,4 +88,12 @@ h4 {
 .pdf {
   text-align: center;
   font-size: 20px;
+}
+
+#PDF {
+  text-align: center;
+  font-size: 30px;
+  margin: 0%;
+  text-decoration:underline 3px;
+  text-decoration-color: rgb(0, 0, 0);
 }
